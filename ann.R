@@ -1,5 +1,4 @@
-# Artificial Neural Network
-
+rm(list=ls())
 # Importing the dataset
 dataset = read.csv("D:\\DataScience_Drive\\Churn_Modelling.csv")
 View(dataset)
